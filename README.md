@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+[<img align="left" width="390" alt="💀" src="/github-metrics.svg">
 ![Metrics](/metrics.plugin.languages.indepth.svg)
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 ![Metrics](/metrics.plugin.steam.full.svg)
