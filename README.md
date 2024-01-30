@@ -4,5 +4,4 @@
 <img align="left" width="390" alt="💀" src="/metrics.plugin.isocalendar.fullyear.svg">
 <img align="left" width="390" alt="💀" src="/metrics.plugin.languages.indepth.svg">
 <img align="left" width="390" alt="💀" src="/metrics.plugin.leetcode.svg">
-
-<img align="left" width="390" alt="💀" src="/metrics.plugin.achievements.compact.svg">
+<img align="left" width="450" alt="💀" src="/metrics.plugin.achievements.compact.svg">
