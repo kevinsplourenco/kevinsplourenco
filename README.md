@@ -3,3 +3,4 @@
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 ![Metrics](/metrics.plugin.steam.full.svg)
 ![Metrics](/metrics.plugin.leetcode.svg)
+![Metrics](/metrics.plugin.anilist.manga.svg)
