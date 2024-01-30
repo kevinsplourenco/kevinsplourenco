@@ -1,0 +1,26 @@
+name: Profile and detailed game history
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+   github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+    - uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.posts.full.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_posts: yes
+        plugin_posts_source: dev.to
+        plugin_posts_limit: 2
+        plugin_posts_descriptions: yes
+        plugin_posts_covers: yes
