@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            233 games
+                            234 games
                         </div>
                     </section>
                     <section>
@@ -102,15 +102,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAwQFBgIHAAEI/8QALxAAAgEDAwIDCAEFAAAAAAAAAQIDAAQRBQYSITFBUWEHExQiIzJCcVIVM5Ghwf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAgUGAf/EACARAAIDAAICAwEAAAAAAAAAAAECAAMRBCEFEgYTMVH/2gAMAwEAAhEDEQA/APPvEt8wrkwKR86YtlyhGKHPlwY6MegYxUm4IBZRwAx3phXWQqo79qBpsRn1OGDHc4p/TrNm3RDa46F8UCy4AmM08YDsxK/YR3BDDqFFCWRSoU9+9TW+dPNnuR7cLgGNTUXrtsbK+RAOhiU1Gu4MRO20thyCOB2rtTnoaAQyOCex61mr8pABTG9CKMjgmSFq2D18ac0a0+M3HZWx7O//AColpGDAjwqW2nMzbmsJ1/B6ByX9VMZ4dZscCG23Y+535BC4PyXByD5VYX08W/tbsYRgI0gJ8sHNOmxI3fLfKmEwCD607PbiXcY1ZjgqoVT6iqO7l+rHf5NdR4N3QESN9pViJ/anbQpgpKqIMdqivbHp/uN6R28IGBaxccDucVa72D47cVpqDHL25Dk+lda7ZLq+4dLvpevCX6mf4jtUaeXhWC5Phba1JlB3ppZ0bWorWQAH4WOUj9ioW8VTKjpgYA7VcvbhOt5vT30PRPho4xj0FUZOWSG8qvOK/wBiiZbmVvUxExlI6lm+n+GPE09Y/HadLHPFExY9UcDoT5UktvLc3UUNvGWllYLGnrXpzQBtiDbk+3dRt099o9sl/JOcZJfuufSiOvuMi9XIsqYFJqLTNea4KxaijQzn7c9ORqVaWVBmeGSNvxZvtq4b927Yb6utvazpCJb2d1ILSVo8KAqDv07H1qwTXlrubQ9c2tDHbyX9haqIHjUBjg47/oVV3ePD9zW8T5HbUgDCavjupZfpwo0j/mVHcUnqWuNao6QQSO4H2jup8zW1twQDTtubZsdqQwc5pjDNcyKG4OF+bl6ZqG2jol1oO5d8WGryWeo3H9NjmDpGMLyPhnsa5T44KdkuV8mssQrk0PqN9fa7fcpf7idM8f8AVAKSJyV14SD7iR4VvrdPDSfZrpc2yrS0nkkun+KmkjDkeY/zWj9fu7y81TlqUSpccRlYxxBH6q0rT6x1MldfZc+mYWUzQTRtGcMpyD4imrzULhppXeWUmRQrkN948j5iowqWZjnjgVwTuoXA55OKPoMECc1I6u4dQitVtoriaOJTlVViAvqKw0zV9Qs7/wB9BcyLK/3OrEMf2aVaRZF5PGRQSMTq6g4oToTC02EnHkvPrmqQTssN7Lxk6kcjhT5j1olxuHV5Lh7iS8ZZZYxE7ZOWUds+dRDzsXOAOvfpQ5xLM31GC9MdvCuIhElfaNwQqazfWsTQwXMxiYklA545PjigxNJNN76V2Zz/ACOawWA5+mcimI0VfHrRvyLn3zRP/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYDBAcBAv/EACwQAAIBBAAEBQMFAQAAAAAAAAECAwAEBREGEiFBBxMxUWEUIjIWI1JxgSX/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACgRAAEEAQMCBQUAAAAAAAAAAAEAAgMRIQQSQRMxBVFhgdEUIjKhwf/aAAwDAQACEQMRAD8AORO2Oxl1NI6rCF6A+pNK9vAltzTsrPc3B9B7dq9+J2eEssItSPpQeqr3peuuMEJX6SAswQKD7Gn+KSEuAokHNevFqHwyA7bJo9vlV/EBFK2rb5Zi2uQ+tK0Vm5PMAS57CjEU893eNPcRtNMfxj70XjxOYuodQ2LRK/qSOoqfTx7WDefZaEhN03K4met1EcV5C4dVA3uh+WzdlNj7m2t43eV10GB6CiP6QyxZEePnZjrWutUr3hPJwSFTYyMw/iNVP9Kwu/LHkm7yG3tSXaSyWgkHrFr7/itw4Ty9v4i8Etgb0hMjYDntwDrzd9AB81n8fh9k8jA7SEWsijYjcdWrmH4T4nwOQE1pHJ5w6xunQbra0sjZGdFzqINj0PwsvUxlruoBYrKqZO4kurVAqs5B66ohguG8hfMixW5ij9S7CiHh/Zrc5qKaRA9qp9exNbjjLKKSUc4SPX4BRrdc8QI6uO6PQg9LPa0mYnhlMZbQpbQc8znRkcb6/FN1lgLid+RfXQ2o7VPxJxhgMLl7fHsBLcIAxRD+O+5opi7vYe7sWMqzjWh2rLDrJWiRQCDrhpYM5FbyHmQaJb2ojm8O0N2GtwrFwAN9d1DxfhMxkMcIsPcrBcN900jDelpHwWIzFnloprm9m5IW6NIxIc99UAtx3LkkrIwGOJz7p6mwc0SCSWI+Zrbf1VY20fnQuN8oPc0Uku76aUc7glgARrtVy2tofLYya5VG/wDacwkUXJT8sI4WYcHcLi0mt4V6QK5Yr3p7li+mjmlBAKDS/FFMJg7e3RlknEz/AM06ChGQ5vJvIgCGUHW+4qiZ26TPko9ECI+/KBQ8I4a+ZMhA31NxM5V23sg+1P2GsIsZj+RFH29dUi8CMMHnJ8VetyQzqJIXbszdTWoCNuQAgFR39xUL910VfHDGw9RvcqvFJ5gO1ZSR6+9C73Ho/wBugEB5v6PvRlNu5QRke1JfEvFNs/ENtgcfcJ9YGBm77B7UAbZpPsC3Ui15y20RkbWlA614vVP0DzRH7igIFVOL7lILE26tuXkG6uRyCfFJy/kIxuqq5KkdkFvKK2SxWVu0tzPHEB121LRymGaW6afJwa/l2PxWceKfnZqWM2l5NDbjWyrkD/aW7rIYqa0fh94J0sFiVo7rn6+afyJPqR8UctudvQQRiNgYFoXEOewt4AltdpLOn4TJ00a7YcUT21izpkEUoOgk2d0ITLYMcNG2dIPNSMJpVAdgO+6G5LiHEw+ar3lo2PaFVS2Vf3Q/fbUBc3kJoB4UeU8Y8hkeDb+VJUt76F3Tk5dEgHQIpI8L4r7I8RjinJ5BYkj66cHbkdq0m9y3CFzjRCIrd5GjHIqKAeb596Gz5Xhu1xVtDkI/KjRyVaM8oJ9qRG37iRmv0myvJaGnH9TLLnbW6uz+7uWToC3UCrWIzj2LvBIjzxKebnX0FRWmRx2XH/HjgglEagPIoI171Rus0Me2TSONOeWAIrkbUsPXVUtk4ISTGBkL/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Magic: The Gathering Arena</div>
+                                <div class="name">Toram Online</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Strategy, Free To Play
+                                        Massively Multiplayer, RPG, Free To Play
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        246 hours played
+                                        7 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 27 Feb 2025
+                                        Last played on 17 Mar 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
