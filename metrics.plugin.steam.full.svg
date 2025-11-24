@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            156 games
+                            157 games
                         </div>
                     </section>
                     <section>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            5.09k hours played
+                            5.10k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        11 hours played
+                                        16 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 Nov 2025
+                                        Last played on 24 Nov 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 54 achievements unlocked
+                                            20 / 54 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwgC/8QAKxAAAgIABAUCBgMAAAAAAAAAAQIDBAAFERIGITEyQRNRBxQicaGxYYHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEF/8QAHhEAAgIDAQADAAAAAAAAAAAAAQMAAgQRofAxYeH/2gAMAwEAAhEDEQA/AJhyfLLWcZhHTox+pM/9BR5Zj4A98MPB/BsFXZFQijtXHOx7s0e5d3TbEp/Z/HTG+BuHY8voRVCCJJUSe9Ip0ZteaxKfAA/Op9sPmUZTUpRLHUrmJC0SBTGfXJLBtkZfRZIzH3EDXu5EHTGslNMaoYwbJ+PqZLn2yLFazoCTxxpwUk7OtmOOtcVti2Yk2ozdNsijp9xgjzKjYy25JVuRmOaM6EH9j3GLjzfKal2Jo7dYyoGlQqIz6wIYtskKaqkYj7SRr28gBpie/iFw1HboTempMldGmqyNzbYO6Nj50HQ4rU0yaFixqw778MJdfHsFsOwZrgTiaO7VjnckyRIkV2JebbV5CVR55dRh+yTOad6MNUnDAtE/1SFZzo4AdC5KIgj7gvM/VzAGuIhyzMLOWXY7dKQxzRnUEdD/AAfcYWuDuNIJyhhljq2lO9q0r7U3a67o2PQ+dMEurk0C2HVh2HJtj2LFjYPJQuc5xTpJutT7dGlf6ZC04Jcgu5QhHQx9obn28yDrgE+I/EcWXZbNHGT8zZRooI25MsZ6uw8E8uWMcYcdVqSsVkiuX3O8RI25EbrucjuOvj/cDuZXrGZXZbVyRpJpDqWP6+2I11capos7J97sJTbIsGMGgJ//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAcF/8QAMBAAAgAEBQIEAwkAAAAAAAAAAQIDBAURAAYHEiExQRNRYYEUcbEIIiNSYoKRwdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQD/8QAJREAAgIBAgQHAAAAAAAAAAAAAQIDEQAhUQQSYXETMTJBgZHh/9oADAMBAAIRAxEAPwCL6bZEXMEP46obvhNxWHDUkeJY2JJHNrmwA5J8rYptZ0ekDLQEenvI72CrFJ8O5PYnc1if1D3vjP0NzDKw6VJwrp48k43QybXszkfK4c2PS4xd40u1YpEzDkVcmZUbYswLKtmB9eeOvTFsjnhwoRRRANkA3vr0OmleWRTSuHoYf6nojC22k5q0W3CpHWIT+0hSfbEezLQpvL9RaUnV56o4Fg4/o+Y7Ybk9lt6jIKtQgSkKMq8vBu5J87kCx8rEW9cHX7TDwFzDKwIa/iLuu3c2Cgk+pOFVlnRyVAKi7HcCiPnGgldm5WyPyE5HkZpJiVivCiobhlYj2w4tJKgk9ldQhBVG3Lb8rgMPrgK4tej2qUvl+UWQqbbECCGWY2V1B+7z2I6c8EYID4kbQ3sRe4/Dm0ykjTFfNuEhc8Ann5Dk/TAk1tqhqWeZnm6whb3Jv/mLfmjWuhQaXGEjEESO6FQqMGPtbj+cFyrT0Sp1KZnI3ESM5cgdvTAyGCJlb1NXveg7da+sSFDZY5//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Alpinist Badge</div>
-                                                <div class="unlocked">22 Nov 2025</div>
+                                                <div>Cool Cucumber Badge</div>
+                                                <div class="unlocked">24 Nov 2025</div>
                                             </div>
-                                            <div class="description">Climb past the ALPINE.</div>
+                                            <div class="description">Climb past the MESA without ever having more than 10% Heat.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwIIAwUG/8QALxAAAgECBAMHAwUBAAAAAAAAAQIDBAUABhExEiFBBxMUQmFxgTJSchUiUWKRof/EABgBAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAJhEBAAAEBAUFAAAAAAAAAAAAAQMEESEAAgUxEhMUQcEyUWFxgf/aAAwDAQACEQMRAD8AAsl5WS5xNcboZI7bG/Aqp9dQ/wBq+nMan10HPZXtWXpaeMeDpqG1RHZUi7yU/kx6/Jxs+zyyU02YLdbZlPhLbTp+xeRZuFmc+54W+Wx3tuvNyuNygpYY6dqaZxGtEY1EIU+XbUcvNv1xnnJzPL5+TBaJu96+A+MdvSdKhTELqZjLxCVBaAXp9rRb2MFd4yzLUxsaqnobonUGPuph+LDr8jBJm7LgtJSromeS3ysVHGNHicbo3ri2FyvNyttynpJ46daaFyjUQjUwlR5dufLzb9cHfajYKWK53aigUinrKdpVVt1dVV1PvowBP9cTJTueYz8iM1XZpcfI/OGraVCl4XUy+XhAqg1EtX6So2s4w5Hvghu1Dc6dlHjIYpIidu9T6kPvqR8HC3ZKySz1putl4pLPM6mrhVA8lONdShG4HM6NsR64qBlLMwtcbUNery2524xwHR4X+5Dhfy1nSojaOW23GlqpAOUiz+Hm0/hgeRwm5OJHic+BddzuPkcV03U4EKB0k08NLC+lNwfZOz+4Yb5WveK39VvPFHZoXY0kLoEkqBy0QDcjkNW2A9cEnaDexI90uVQyl4YZAxG3ey6aIPZQP9GI5hzqxkee7XKnp3I5sZvETH0UaaD/AL7YHc55oN7eOmo0eG3QksqsdWkY7ux6k4SkpEgROfHsmx3XwGGpalAiy/SSrxVsp6Q3Q917v7j/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwEEBQgCAwb/xAAtEAACAQIFAwMCBwEAAAAAAAABAgMEBQARITFBBgcSIlFhE4EUMnGRsdHw4f/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwX/xAAeEQABBAIDAQAAAAAAAAAAAAABAAIEEjEyESFxYf/aAAwDAQACEQMRAD8ArNYLNWX25R0Vvj85G1Zjosa8sx4Aweu3Xb5EiztKoANJrvPD5FzysKHYfP7njGztn0XDBSm3yn6cEKJUXWZTk0rkZrCDwoGef35OHHUfUtVcHaGiY0tuiHhBTxHwHiNs8v8ADHHlSy41bhZb+KM7k9us0+pcPDM6RXWGLxAPCzoNvhhp/GARebXV2e4S0dfEY5kP2YcEHkHB/s9+rLY5DOailk9M1NKfJJFO6kH45w27l9H09ba4/wAFnJTyQNVWyVtWjyGbwMdyMtv+YRZZaauwmniXt51klXbqioeQqlRAKa5Io8mhYKVWoVeVyOo/rE9c+kFpKOeWgqmrJWVJoEjjJFShHqKkaaAf7PFa7Jdquy3COsoJTHKm/sw5UjkHBr6O69kq7VPRWiqSleZCslBNJ4iMk+p4HO3PpOmueLJiFps3CvFT8XS2awUlzqnqZJpKayqCkVVKApeQLm2+iqNR8kHEF3C6ngslgigp5WcLHJBb0kGTsHPqmYcDLRR7frjLrfr+ktdsholWFlhUCC2QyeagjZ5nH5jnrltn774BN5ulXebjLW3CUyzyHMk7Aew9hhGi3dc4Tc9YX//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>First Aid Badge</div>
-                                                <div class="unlocked">22 Nov 2025</div>
+                                                <div>Trailblazer Badge</div>
+                                                <div class="unlocked">24 Nov 2025</div>
                                             </div>
-                                            <div class="description">Heal your friends for 100 points of injury in a single expedition.</div>
+                                            <div class="description">Climb past the TROPICS.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+18 others...</div>
                                         </div>
                                     </div>
                                 </div>
